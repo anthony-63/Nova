@@ -1,6 +1,6 @@
-# This is my notes for developing Nova
+# This is my notes for developing Polyangular
 
-Checklist
+## Checklist
 
 - [ ] Design a logo or get one designed
 - [ ] Settings loading
